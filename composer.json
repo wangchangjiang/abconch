@@ -1,0 +1,21 @@
+{
+    "name": "wangchangjiang/abconch",
+    "description": "这是一个包",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangchangjiang",
+            "email": "292983934@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abconch\\": "src/Abconch"
+        }
+    }
+}
