@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Abconch\\": ""
+            "Abconch\\Lib\\": "src/Abconch/Lib"
         }
     }
 }

@@ -6,8 +6,7 @@
  * Time: 下午 4:16
  */
 
-namespace Abconch\Abconch;
-
+namespace Abconch\lib;
 
 class Tools
 {
