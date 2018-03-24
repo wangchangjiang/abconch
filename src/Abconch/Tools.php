@@ -16,5 +16,6 @@ class Tools
     }
     public static function Hello(){
         echo 'Hello world';
+        
     }
 }
